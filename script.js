@@ -58,3 +58,4 @@ Iya.addEventListener("click", function () {
         Iya.remove();
     }
 });
+
