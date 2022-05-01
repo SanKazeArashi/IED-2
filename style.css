@@ -5,10 +5,10 @@ body {
 }
 
 p{
-    font-size: 2.5vw;
+    font-size: 2.7vw;
     background-color: black;
-    padding: 5px;
-    border-radius: 50px;;
+    padding: 4px;
+    border-radius: 20px;;
 }
 .container {
     width: 80%;
